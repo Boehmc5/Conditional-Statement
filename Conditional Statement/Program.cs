@@ -23,7 +23,7 @@ namespace Conditional_Statement
                 //if statement to determine your grade
                 if(new_input >= 90)
                 {
-                    Console.WriteLine("You have recieved a A!");
+                    Console.WriteLine("You have recieved a A");
                 }
 
                 else if(new_input >= 80)
