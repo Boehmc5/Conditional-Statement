@@ -16,7 +16,7 @@ namespace Conditional_Statement
 
             try
             {
-                //changes inputted value to an int
+                //changes inputted value to an int  
                 string input = Console.ReadLine();
                 int new_input = int.Parse(input);
 
